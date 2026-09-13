@@ -9,7 +9,6 @@ mathematical ideas easier to explore, test, and teach.
 - [Interactive Quantum Mechanics Simulator](https://github.com/mr-physicist2002/Interactive-Quantum-Mechanics-Simulator) — bilingual browser laboratory for bound states, scattering, wave packets, hydrogen orbitals, and spin.
 - [Hamiltonian Dynamics Platform](https://github.com/mr-physicist2002/hamiltonian-dynamics-platform) — interactive demonstrations of phase space, symplectic integration, chaos, and Poisson brackets.
 - [Optics Laboratory](https://github.com/mr-physicist2002/OpticsLab) — bilingual course website with experiments, simulations, exercises, and reference material.
-- [PrivateSparta Desktop](https://github.com/mr-physicist2002/PrivateSparta_Application) — a privacy-focused desktop VPN client built with Rust, Tauri, and React.
 
 ## Interests and tools
 
@@ -20,4 +19,4 @@ mathematical ideas easier to explore, test, and teach.
 ## Links
 
 - [ORCID](https://orcid.org/0009-0009-5379-8005)
-- [Personal website](https://creativecreatorcreations.com)
+- [Personal website](https://henrytalebi.space)
