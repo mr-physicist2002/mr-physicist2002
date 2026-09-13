@@ -19,5 +19,5 @@ mathematical ideas easier to explore, test, and teach.
 ## Links
 
 - [ORCID](https://orcid.org/0009-0009-5379-8005)
-- [LinkedIn](https://linkedin.com/in/henrytalebi))
+- [LinkedIn](https://linkedin.com/in/henrytalebi)
 - [Personal website](https://henrytalebi.space)
