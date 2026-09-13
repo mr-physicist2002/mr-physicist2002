@@ -1,4 +1,4 @@
-# Mohammad Talebi
+# Henry Talebi
 
 Physics undergraduate at the University of Mazandaran, interested in theoretical
 and computational physics. I build interactive scientific tools that make
@@ -19,4 +19,5 @@ mathematical ideas easier to explore, test, and teach.
 ## Links
 
 - [ORCID](https://orcid.org/0009-0009-5379-8005)
+- [LinkedIn]([https://orcid.org/0009-0009-5379-8005](https://linkedin.com/in/henrytalebi))
 - [Personal website](https://henrytalebi.space)
