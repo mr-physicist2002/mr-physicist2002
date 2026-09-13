@@ -1,6 +1,6 @@
 # Henry Talebi
 
-Physics undergraduate at the University of Mazandaran, interested in theoretical
+Physics undergraduate, interested in theoretical
 and computational physics. I build interactive scientific tools that make
 mathematical ideas easier to explore, test, and teach.
 
